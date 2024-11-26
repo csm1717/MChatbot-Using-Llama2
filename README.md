@@ -5,3 +5,8 @@
 
  # activate environment
  conda activate mchatbot
+
+# install the packages from requirment.txt
+ pip insatll -r requirment.txt
+
+ 
